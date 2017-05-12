@@ -2,7 +2,7 @@
   <id>com.your.company.unique.plugin.id</id>
   <name>Plugin display name here</name>
   <version>1.0</version>
-  <vendor email="m.petrov@premiumitsolution.com" url="http://www.yourcompany.com">IT solutions</vendor>
+  <vendor email="m.petrov@premiumitsolution.com" url="https://github.com/petrovma92/pluginForTestCaseDataTables">IT solutions</vendor>
 
   <description><![CDATA[
       Enter short description for your plugin here.<br>
